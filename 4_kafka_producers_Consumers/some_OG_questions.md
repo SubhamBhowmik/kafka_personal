@@ -310,7 +310,7 @@ If consumers are CPU or memory constrained:
 - Use SSDs
 - Improve network bandwidth
 
-### 12. Apply Backpressure
+### 12. Apply Backpressure ⭐⭐⭐⭐⭐
 
 If producers write faster than consumers can process:
 - Slow producers

@@ -199,7 +199,7 @@ consumer.close();
 `subscribe()` uses Consumer Group with automatic rebalancing. `assign()` is manual partition assignment with no rebalancing.
 
 **Q2. Which method safely interrupts poll()?**
-`consumer.wakeup()`
+`consumer.wakeup()` thread safe method that safelt interrupt or shut down 
 
 ---
 

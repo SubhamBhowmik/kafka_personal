@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+ please check downside of every section cheat sheet
+
 | # | Topic | Importance |
 |---|-------|------------|
 | [1](#1-kafka-fundamentals--architecture-) | Kafka Fundamentals & Architecture | ⭐⭐⭐⭐⭐ |
